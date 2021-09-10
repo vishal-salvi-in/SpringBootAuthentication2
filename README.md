@@ -1,0 +1,2 @@
+# SpringBootAuthentication2
+SpringBootAuthentication2 contains SpringBoot authentication example by LDAP
